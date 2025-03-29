@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/makeup_products/static/css/main.f855e6bc.css",
-    "main.js": "/makeup_products/static/js/main.12b742fb.js",
+    "main.js": "/makeup_products/static/js/main.d48419db.js",
     "static/js/255.928bc52c.chunk.js": "/makeup_products/static/js/255.928bc52c.chunk.js",
     "static/js/442.7166eb46.chunk.js": "/makeup_products/static/js/442.7166eb46.chunk.js",
-    "static/js/582.2ecd70fe.chunk.js": "/makeup_products/static/js/582.2ecd70fe.chunk.js",
+    "static/js/582.570ba765.chunk.js": "/makeup_products/static/js/582.570ba765.chunk.js",
     "static/js/453.68693753.chunk.js": "/makeup_products/static/js/453.68693753.chunk.js",
     "static/js/960.63b4e41c.chunk.js": "/makeup_products/static/js/960.63b4e41c.chunk.js",
     "static/js/540.a32dfa4d.chunk.js": "/makeup_products/static/js/540.a32dfa4d.chunk.js",
     "index.html": "/makeup_products/index.html",
     "main.f855e6bc.css.map": "/makeup_products/static/css/main.f855e6bc.css.map",
-    "main.12b742fb.js.map": "/makeup_products/static/js/main.12b742fb.js.map",
+    "main.d48419db.js.map": "/makeup_products/static/js/main.d48419db.js.map",
     "255.928bc52c.chunk.js.map": "/makeup_products/static/js/255.928bc52c.chunk.js.map",
     "442.7166eb46.chunk.js.map": "/makeup_products/static/js/442.7166eb46.chunk.js.map",
-    "582.2ecd70fe.chunk.js.map": "/makeup_products/static/js/582.2ecd70fe.chunk.js.map",
+    "582.570ba765.chunk.js.map": "/makeup_products/static/js/582.570ba765.chunk.js.map",
     "453.68693753.chunk.js.map": "/makeup_products/static/js/453.68693753.chunk.js.map",
     "960.63b4e41c.chunk.js.map": "/makeup_products/static/js/960.63b4e41c.chunk.js.map",
     "540.a32dfa4d.chunk.js.map": "/makeup_products/static/js/540.a32dfa4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.12b742fb.js"
+    "static/js/main.d48419db.js"
   ]
 }
